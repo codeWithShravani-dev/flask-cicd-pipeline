@@ -1,4 +1,11 @@
-__pycache__
-.git
-.github
-*.pyc
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.git/
+.github/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.log
